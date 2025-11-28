@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I’m a Computer Science student passionate about exploring the full spectrum of modern software engineering—from backend development and DevOps to cloud technologies and automation. I enjoy building practical tools, learning new technologies, and improving a little every day.
 
 
